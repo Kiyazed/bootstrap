@@ -1,0 +1,26 @@
+body::before{
+    display: inline-block;
+    content:"";
+    height: 60px;
+}
+
+
+@media(min-width:768px){
+    .news-input{
+        width: 50%;
+    }
+}
+.check:hover{
+    color: rgb(241, 241, 144);
+    font-weight: bold;
+
+}
+body{
+    font-family:'Times New Roman', Times, serif;
+}
+.bi-cart2{
+    color:rgb(245, 193, 96);}
+    .bi-person{
+        color:rgb(245, 193, 96);}
+        .bi-chat-left-text{
+            color:rgb(245, 193, 96);}
